@@ -8,7 +8,7 @@ Custom configuration of Marlin firmware for SKR E3 DIP E3 V1.0 (Ender 3 Pro). Or
 
 # Releases
     
-## Marlin 2.0.9.1 (2021-09-20)
+## Marlin 2.0.9.1 (2021-09-22)
 * Printer setup:
    * OMG V2 s extruder, direct drive (https://github.com/my3dltd/OMG-V2-S-Extruder-for-3D-Printer):
    <img src="resources/images/omg_extruder.png" width="20%" height="20%">
