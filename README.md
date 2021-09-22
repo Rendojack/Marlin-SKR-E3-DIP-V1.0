@@ -13,9 +13,9 @@ Custom configuration of Marlin firmware for SKR E3 DIP E3 V1.0 (Ender 3 Pro). Or
    * OMG V2 s extruder, direct drive (https://github.com/my3dltd/OMG-V2-S-Extruder-for-3D-Printer):
    <img src="resources/images/omg_extruder.png" width="20%" height="20%">
    
-   * Trianglelab bltouch: 
-   <img src="resources/images/bltouch.png" width="20%" height="20%">
-   
+   * Fysetc (https://www.fysetc.com/) bltouch: 
+   <img src="resources/images/bltouch_wiring.png" width="50%" height="50%">
+    
    * Stepper drivers: TMC2208 UART
    <img src="resources/images/tmc2208.png" width="20%" height="20%">
    
